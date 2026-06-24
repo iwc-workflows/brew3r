@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-10-09T08:51:56.262835",
+            "datePublished": "2026-06-24T13:39:09.998716",
             "hasPart": [
                 {
                     "@id": "BREW3R.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/brew3r",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
@@ -138,7 +138,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.26"
+            "engineVersion": ">=0.75.44"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
